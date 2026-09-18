@@ -8,7 +8,9 @@
 
 * **Asignatura:** Robótica
 * **Estudiante:** frankich99
+* **Docente:** Jose Mauro Pillco Quispe
 * **Código / Correo Institucional:** [133962@unsaac.edu.pe](mailto:133962@unsaac.edu.pe)
+* **Presentado por:**  Noe franklin choquenaira quispe
 * **Entorno de Simulación:** Autodesk Tinkercad
 * **Plataforma Hardware:** Arduino Uno R3
 
